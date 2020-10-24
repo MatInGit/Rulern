@@ -4,7 +4,6 @@ Rulern/ClipsModule.py
 Rulern/DataModule.py
 Rulern/GeneticAlgorithmModule.py
 Rulern/LCSModule.py
-Rulern/ParserModule.py
 Rulern/RuleModule.py
 Rulern/__init__.py
 Rulern.egg-info/PKG-INFO
