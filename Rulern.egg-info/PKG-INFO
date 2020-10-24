@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Rulern
+Version: 0.0.1
+Summary: Learning Classifer Systems package.
+Home-page: https://github.com/MatInGit/Rulern
+Author: Mateusz Leputa
+Author-email: mateo.leputa@gmail.com
+License: UNKNOWN
+Description: # Rulern
+        Rulern - Easy Learning Classifier Systems in a few lines.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

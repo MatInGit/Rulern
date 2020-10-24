@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Rulern-MatInGit", # Replace with your own username
+    name="Rulern", # Replace with your own username
     version="0.0.1",
     author="Mateusz Leputa",
     author_email="mateo.leputa@gmail.com",
@@ -15,9 +15,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     install_requires=[
        "numpy",
-       "pandas",
-       "timeit",
-       "time"
+       "pandas"
    ],
     python_requires='>=3.7',
 )
